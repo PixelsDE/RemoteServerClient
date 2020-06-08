@@ -1,0 +1,8 @@
+/out/
+.classpath
+.project
+RemoteClient.eml
+RemoteClient.userlibraries
+RemoteClient.iml
+.idea
+/.idea/
